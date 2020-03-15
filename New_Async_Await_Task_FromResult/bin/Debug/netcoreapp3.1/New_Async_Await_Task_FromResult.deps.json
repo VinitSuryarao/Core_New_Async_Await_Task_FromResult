@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "New_Async_Await_Task_FromResult/1.0.0": {
+        "runtime": {
+          "New_Async_Await_Task_FromResult.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "New_Async_Await_Task_FromResult/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

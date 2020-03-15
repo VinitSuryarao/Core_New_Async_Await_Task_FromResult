@@ -1,0 +1,11 @@
+E:\Programs\New_Async_Await_Task_FromResult\bin\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.exe
+E:\Programs\New_Async_Await_Task_FromResult\bin\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.deps.json
+E:\Programs\New_Async_Await_Task_FromResult\bin\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.runtimeconfig.json
+E:\Programs\New_Async_Await_Task_FromResult\bin\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.runtimeconfig.dev.json
+E:\Programs\New_Async_Await_Task_FromResult\bin\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.dll
+E:\Programs\New_Async_Await_Task_FromResult\bin\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.pdb
+E:\Programs\New_Async_Await_Task_FromResult\obj\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.csprojAssemblyReference.cache
+E:\Programs\New_Async_Await_Task_FromResult\obj\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.AssemblyInfoInputs.cache
+E:\Programs\New_Async_Await_Task_FromResult\obj\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.AssemblyInfo.cs
+E:\Programs\New_Async_Await_Task_FromResult\obj\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.dll
+E:\Programs\New_Async_Await_Task_FromResult\obj\Debug\netcoreapp3.1\New_Async_Await_Task_FromResult.pdb
